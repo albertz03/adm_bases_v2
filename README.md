@@ -29,6 +29,8 @@ PARTITION part4 VALUES('valores_para_part4'),
 
 <br> 
 
+
+
 ## 2. Respaldar (Backup)
   > Los DBMS permiten realizar backups o respaldos sin bloquear las tablas.
   > También se pueden realizar respaldos incrementales y más opciones de manera completa o parcial.
